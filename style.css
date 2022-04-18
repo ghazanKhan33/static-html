@@ -1,0 +1,189 @@
+@media screen and (max-width: 994px) {
+    div.childHtml{
+       background-image: url(decore2.png);
+       padding-right: 5%;
+       padding-left: 5%;   
+    }
+    
+  }
+  @media screen and (max-width: 1200px) {
+    div.trip-div{
+       background-image: none;
+    }    
+  }
+  @media screen and (max-width: 1200px) {
+    div.top-margin{
+       margin-top: 5%;
+    }  
+  }
+  @media screen and (max-width: 1200px) {
+    div.auto-margin{
+       margin-left: auto;
+       margin-right: auto;
+    }  
+  }
+ 
+ .navbar-nav > li{
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 5%;
+    
+ }
+  .navbar-brand{
+    padding-top: 5%;
+  }
+ .mainHtml{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   
+   
+   
+ }
+ .childHtml{
+   background-repeat: no-repeat;
+   background-position: top right;
+   background-image: url(decore.png);
+   padding-right: 10%;
+   padding-left: 10%;
+
+   width: 1366px;
+
+ }
+
+ .orange-text{
+   line-height: 1%;
+   font-weight: bold;
+   color:#DF6951;
+ }
+ .blue-heading{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold; color: #181E4B;
+   font-size: 400%;
+ }
+ .center-grey-heading{
+   color: #5E6282;
+   font-weight: bold;
+   text-align: center;
+   letter-spacing: 1px;
+   margin-top: 25%;
+   
+ }
+ .left-grey-heading{
+   line-height: 1%;
+   font-weight: bold;
+   color:#5E6282;
+   margin-left: 5%;
+ }
+ .center-blue-heading{
+   font-family: 'Times New Roman', Times, serif;
+   color: #181E4B; font-weight: bold;
+   text-align: center;
+   font-size: 300%;
+ }
+ .left-blue-heading{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold;
+   color: #181E4B;
+   margin-left: 5%;
+   font-size: 400%;
+ }
+ .grey-heading{
+   color: #5E6282
+ }
+ .blue-image-heading{
+   text-align: center;
+   color: #181E4B;
+ }
+ .section{
+   margin-top: 15%;
+ }
+ .image-desc{
+   display: block; 
+   margin-left: auto; 
+   margin-right: auto;
+ }
+ .fig-caption{
+   text-align: center;
+   
+ }
+ .image-styling{
+   border: white;
+   border-radius: 10%;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ .image-caption{
+   font-size: 80%;
+   font-weight: 600;
+   color: #727692;
+ }
+ .yellow-box{
+   margin-left:5%;
+   margin-top: 5%;
+ }
+ .color-box{
+   margin-left:5%;
+   margin-top: 2%;
+ }
+ .color-div{
+   margin-top: -1%;
+ }
+ .color-heading{
+   color: #5E6282;
+   font-weight: bold;
+ }
+ .trip-div{
+   background-image: url(Greece3.png);
+   background-repeat: no-repeat;
+   background-position: top right;
+   
+ }
+ 
+.pageDots{
+ margin-top: 15%;
+ margin-left: 2%;
+}
+.quotePara{
+ font-weight: 500;
+ color:#5E6282;
+ margin-left: 15%;
+ line-height: 2.0;
+ box-shadow: 20px 20px 50px #dbdbdb;
+}
+.mike{
+ font-weight: bold;
+ font-size: medium;
+}
+.sub-testimonial-para{
+ background-color:#e9f0eb ; 
+ color:#5E6282; 
+ margin-left: 24%; 
+ line-height: 1.6; 
+ font-weight: 600;
+}
+.ceo{
+ font-weight: bold; 
+ font-size: medium;
+}
+.subscribe{
+ padding-top: 12%;
+ background-image: url(subscribe.png); 
+ height: 438px;
+ background-repeat: no-repeat;
+}
+.sub-para{
+ text-align: center;
+ font-weight: bold; 
+ margin-right: auto; 
+ color: #5E6282; 
+ font-size: xx-large;
+}
+.link-color{
+ color: #5E6282;
+ text-decoration: none;
+ font-weight: 600;
+}
+.link-heading{
+ font-weight: bold;
+}
+ 
