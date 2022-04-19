@@ -52,7 +52,7 @@
  }
 
  .orange-text{
-   line-height: 1%;
+   
    font-weight: bold;
    color:#DF6951;
  }
@@ -96,7 +96,9 @@
    color: #181E4B;
  }
  .section{
-   margin-top: 15%;
+   width: 100;
+   margin-top: 10%;
+   padding-top: 2%;
  }
  .image-desc{
    display: block; 
