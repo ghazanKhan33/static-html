@@ -97,7 +97,7 @@
  }
  .section{
    width: 100;
-   margin-top: 10%;
+   margin-top: 7%;
    padding-top: 2%;
  }
  .image-desc{
@@ -135,6 +135,7 @@
    font-weight: bold;
  }
  .trip-div{
+   margin-top: 20%;
    background-image: url(images/Greece3.png);
    background-repeat: no-repeat;
    background-position: top right;
