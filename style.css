@@ -1,6 +1,6 @@
 @media screen and (max-width: 994px) {
     div.childHtml{
-       background-image: url(decore2.png);
+       background-image: url(images/decore2.png);
        padding-right: 5%;
        padding-left: 5%;   
     }
@@ -43,7 +43,7 @@
  .childHtml{
    background-repeat: no-repeat;
    background-position: top right;
-   background-image: url(decore.png);
+   background-image: url(images/decore.png);
    padding-right: 10%;
    padding-left: 10%;
 
@@ -135,7 +135,7 @@
    font-weight: bold;
  }
  .trip-div{
-   background-image: url(Greece3.png);
+   background-image: url(images/Greece3.png);
    background-repeat: no-repeat;
    background-position: top right;
    
@@ -169,7 +169,7 @@
 }
 .subscribe{
  padding-top: 12%;
- background-image: url(subscribe.png); 
+ background-image: url(images/subscribe.png); 
  height: 438px;
  background-repeat: no-repeat;
 }
